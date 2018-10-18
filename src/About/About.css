@@ -1,0 +1,58 @@
+.about-title {
+	color: #000;
+	text-align: center;
+	font-size: 28px;
+}
+
+.about-content {
+	font-size: 21px;
+	font-weight: 400;
+	text-align: justify;
+	letter-spacing: -0.0666667px;
+	line-height: 33.1833px;
+	font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
+	font-feature-settings: "liga";
+	text-indent: 60px;
+}
+
+.member-image {
+	padding: 5px 5px 0px;
+	width: 100%;
+	height: 260px;
+}
+
+.member-icon-star {
+	color: rgb(60, 118, 61);
+	margin-left: 6px;
+	font-size: 13px;
+}
+
+.member-name{
+	
+}
+
+.member-title{
+	font-size: 16px !important;
+}
+
+.member-description{
+	
+}
+
+.about-sub-title {
+	text-align: center;
+	font-size: 25px;
+	color: #111;
+	margin: 20px 20px;
+}
+
+@media screen and (max-width: 769px) {
+	.about-sub-title {
+		text-align: center;
+		font-size: 22px;
+	}
+}
+
+.about-key-word{
+	color: green;
+}
